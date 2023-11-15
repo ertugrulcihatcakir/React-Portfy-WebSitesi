@@ -16,11 +16,6 @@
 - Duyarlı web sitesi
 
 ## Önemli
-
-Eğer profesyonel bir geliştirici olmak istiyorsanız, JavaScript ve CSS gibi temel konuları çok iyi bilmeniz gerekir. Profesyonel JavaScript](https://bytegrad.com/courses/professional-javascript) ve [Profesyonel CSS](https://bytegrad.com/courses/professional-css) kurslarımı incelemenizi şiddetle tavsiye ederim.
-
-Eksiksiz bir React & Next.js kursu yayınlamak üzereyim. Erken rezervasyon fiyatından yararlanmak için e-posta listesine girin: [link](https://email.bytegrad.com/).
-
 ## Kurulum
 
 1. .env.local dosyasına RESEND_API_KEY ortam değişkenini ekleyin
