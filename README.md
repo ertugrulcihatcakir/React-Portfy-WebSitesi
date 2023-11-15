@@ -1,30 +1,27 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+## Ne öğreneceksiniz
 
-## What you will learn
-
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
+- En son Next.js 13 özellikleri
+- Next.js Uygulama Yönlendirici
+- Next.js Sunucu Eylemleri
+- İstemci ve Sunucu Bileşenleri
+- TypeScript (Başlangıç ve Orta Seviye)
 - Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+- Bağlam API'si
+- Framer Motion ile Gelişmiş Animasyonlar
+- React.Email & Yeniden Gönder
+- Özel React kancaları
+- Taze, modern kullanıcı arayüzü tasarımı
+- Açık ve Koyu mod
+- Duyarlı web sitesi
 
-## Important
+## Önemli
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+Eğer profesyonel bir geliştirici olmak istiyorsanız, JavaScript ve CSS gibi temel konuları çok iyi bilmeniz gerekir. Profesyonel JavaScript](https://bytegrad.com/courses/professional-javascript) ve [Profesyonel CSS](https://bytegrad.com/courses/professional-css) kurslarımı incelemenizi şiddetle tavsiye ederim.
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+Eksiksiz bir React & Next.js kursu yayınlamak üzereyim. Erken rezervasyon fiyatından yararlanmak için e-posta listesine girin: [link](https://email.bytegrad.com/).
 
-## Setup
+## Kurulum
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+1. .env.local dosyasına RESEND_API_KEY ortam değişkenini ekleyin
+2. send-email.ts eylem dosyasında, "to" e-postasını kendi e-postanız olarak değiştirin
